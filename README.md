@@ -18,3 +18,6 @@ This project was build as part of the lecture Mobile Innovations for Global Chal
 
 
 ![alt text](https://github.com/raj19196/NAVI/blob/master/image4.jpg)
+![alt text](https://github.com/raj19196/NAVI/blob/master/image/IMG_0219.HEIC)
+![alt text](https://github.com/raj19196/NAVI/blob/master/image/IMG_0225.HEIC)
+![alt text](https://github.com/raj19196/NAVI/blob/master/image/IMG_0235.HEIC)
